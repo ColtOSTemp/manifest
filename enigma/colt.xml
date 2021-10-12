@@ -8,7 +8,7 @@
            fetch="https://gitlab.com" />
 
   <remote  name="colt"
-           fetch="https://github.com/Colt-Enigma"
+           fetch="https://github.com/ColtOSTemp"
            revision="refs/heads/c12" />
 
   <remote  name="colt-devices"
