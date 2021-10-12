@@ -51,26 +51,14 @@
 
   <!-- prebuilt repos -->
   <project path="prebuilts/abi-dumps/vndk" name="platform_prebuilts_abi-dumps_vndk" clone-depth="1" remote="colt" />
-  <project path="prebuilts/tools-extras" name="platform_prebuilts_tools-extras" remote="colt" />
 
   <!-- system repos -->
   <project path="system/core" name="platform_system_core" remote="colt" />
 
-  <!-- tools repos -->
-  <project path="tools/extract-utils" name="platform_tools_extract-utils" remote="colt" />
-
   <!-- vendor repos -->
   <project path="vendor/colt" name="platform_vendor_colt" remote="colt" />
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="colt" />
-  <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="colt" />
-  <project path="vendor/qcom/opensource/commonsys-intf/display" name="platform_vendor_qcom_opensource_display-commonsys-intf" remote="colt" />
-  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="platform_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="colt" />
-  <project path="vendor/qcom/opensource/dataservices" name="platform_vendor_qcom_opensource_dataservices" remote="colt" />
-  <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="colt" />
   <project path="vendor/qcom/opensource/power" name="platform_vendor_qcom_opensource_power" remote="colt" />
-  <project path="vendor/qcom/opensource/thermal-engine" name="platform_vendor_qcom_opensource_thermal-engine" remote="colt" />
   <project path="vendor/qcom/opensource/vibrator" name="platform_vendor_qcom_opensource_vibrator" remote="colt" />
-  <project path="vendor/qcom/opensource/usb" name="platform_vendor_qcom_opensource_usb" remote="colt" />
-  <project path="vendor/qcom/opensource/wfd-commonsys" name="platform_vendor_qcom_opensource_wfd-commonsys" remote="colt" />
 
 </manifest>
